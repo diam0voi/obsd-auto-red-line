@@ -1,0 +1,9 @@
+{
+  "id": "auto-red-line",
+  "name": "Auto Red Line",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Inserts 2 Braille Blank characters (⠀⠀, U+2800) on new line automatically. Allows constant identation for writers at applications with different logic. Perfect for articles in social apps.",
+  "author": "diam0voi",
+  "isDesktopOnly": false
+}
